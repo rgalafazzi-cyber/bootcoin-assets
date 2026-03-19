@@ -1,0 +1,19 @@
+{
+  "name": "Bootcoin Token List",
+  "timestamp": "2026-03-19T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xD2313c444d266be51E07eC494C610c69433053Fb",
+      "name": "Bootcoin",
+      "symbol": "BOOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rgalafazzi-cyber/bootcoin-assets/118237639724ff832175b7cbc3c31562e6bf55e4/BootcoinLogo.png"
+    }
+  ]
+}
