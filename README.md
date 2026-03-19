@@ -31,6 +31,13 @@ We believe exclusivity is not about price — it's about identity.
 
 Bootcoin exists for people who stand out, not fit in.
 
+## Smart Contract
+
+Bootcoin smart contract is deployed on Polygon.
+
+Contract Address:
+0xD2313c444d266be51E07eC494C610c69433053Fb
+
 ---
 
 **Bootcoin — for the few, not the many.**
